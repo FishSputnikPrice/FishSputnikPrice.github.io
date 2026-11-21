@@ -1,0 +1,1871 @@
+[
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Дорадо",
+    "price": 1180,
+    "unit": "₽/кг · от 1 шт · около 500 г",
+    "image": "images/000.webp",
+    "id": "fish-001",
+    "priceText": "1 180"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Сибас",
+    "price": 1200,
+    "unit": "₽/кг",
+    "image": "images/001.webp",
+    "id": "fish-002",
+    "priceText": "1 200"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Сибас — лаврак",
+    "price": 750,
+    "unit": "₽/кг",
+    "image": null,
+    "id": "fish-003",
+    "priceText": "750"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Окунь L",
+    "price": 690,
+    "unit": "₽/кг · около 400 г от 1 шт",
+    "image": "images/002.webp",
+    "id": "fish-004",
+    "priceText": "690"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Скумбрия СГ атлантическая (импорт)",
+    "price": 900,
+    "unit": "₽/кг",
+    "image": "images/003.webp",
+    "id": "fish-005",
+    "priceText": "900"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Скумбрия БГ атлантическая (импорт)",
+    "price": 860,
+    "unit": "₽/кг",
+    "image": "images/003.webp",
+    "id": "fish-006",
+    "priceText": "860"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Камбала мраморная",
+    "price": 570,
+    "unit": "₽/кг · 0,5–1 кг от 1 шт",
+    "image": "images/004.webp",
+    "id": "fish-007",
+    "priceText": "570"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Палтус",
+    "price": 1660,
+    "unit": "₽/кг · от 1 шт",
+    "image": "images/005.webp",
+    "id": "fish-008",
+    "priceText": "1 660"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Угольная БГ (чёрная треска)",
+    "price": 1750,
+    "unit": "₽/кг · 0,6–1,3 кг от 1 шт",
+    "image": "images/006.webp",
+    "id": "fish-009",
+    "priceText": "1 750"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Килька с/з",
+    "price": 330,
+    "unit": "₽/кг",
+    "image": "images/007.webp",
+    "id": "fish-010",
+    "priceText": "330"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Дори",
+    "price": 700,
+    "unit": "₽/кг · около 420 г от 1 шт",
+    "image": "images/008.webp",
+    "id": "fish-011",
+    "priceText": "700"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Брюшки сёмги",
+    "price": 1100,
+    "unit": "₽/уп · упаковка 1 кг",
+    "image": "images/009.webp",
+    "id": "fish-012",
+    "priceText": "1 100",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Хек БГ",
+    "price": 570,
+    "unit": "₽/кг · 0,35–0,45 кг от 1 шт",
+    "image": "images/010.webp",
+    "id": "fish-013",
+    "priceText": "570"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Терпуг 2L",
+    "price": 450,
+    "unit": "₽/кг · около 1+ кг от 1 шт",
+    "image": "images/011.webp",
+    "id": "fish-014",
+    "priceText": "450"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Пикша",
+    "price": 550,
+    "unit": "₽/кг · 0,5–1 кг от 1 шт",
+    "image": "images/012.webp",
+    "id": "fish-015",
+    "priceText": "550",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Мойва",
+    "price": 310,
+    "unit": "₽ · упаковка 0,5 кг",
+    "image": "images/013.webp",
+    "id": "fish-016",
+    "priceText": "310"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Сельдь СМ",
+    "price": 460,
+    "unit": "₽/кг · около 350 г от 1 шт",
+    "image": "images/014.webp",
+    "id": "fish-017",
+    "priceText": "460"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Минтай БГ",
+    "price": 415,
+    "unit": "₽/кг · около 300 г от 1 шт",
+    "image": "images/015.webp",
+    "id": "fish-018",
+    "priceText": "415"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Лакедра",
+    "price": 470,
+    "unit": "₽/кг · около 1+ кг от 1 шт",
+    "image": "images/026.webp",
+    "id": "fish-019",
+    "priceText": "470"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Пангасиус",
+    "price": 490,
+    "unit": "₽/кг · около 600+ г от 1 шт",
+    "image": "images/027.webp",
+    "id": "fish-020",
+    "priceText": "490"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Путассу",
+    "price": 250,
+    "unit": "₽/кг · упаковка 1 кг",
+    "image": "images/028.webp",
+    "id": "fish-021",
+    "priceText": "250"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Треска ПБГ",
+    "price": 960,
+    "unit": "₽/кг · 1–2 кг от 1 шт",
+    "image": "images/029.webp",
+    "id": "fish-022",
+    "priceText": "960"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Барабулька",
+    "price": null,
+    "unit": "Цена за кг в прайсе не указана",
+    "image": "images/030.webp",
+    "id": "fish-023",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Сёмга СГ Чили 2–3 кг",
+    "price": 1400,
+    "unit": "₽/кг",
+    "image": "images/031.webp",
+    "id": "fish-024",
+    "priceText": "1 400"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Форель БГ Турция 0,9–1,3 кг",
+    "price": 1390,
+    "unit": "₽/кг",
+    "image": "images/032.webp",
+    "id": "fish-025",
+    "priceText": "1 390"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Форель БГ Турция 1,3–1,8 кг",
+    "price": 1430,
+    "unit": "₽/кг",
+    "image": "images/032.webp",
+    "id": "fish-026",
+    "priceText": "1 430"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Форель БГ Турция 1,8–2,7 кг",
+    "price": 1470,
+    "unit": "₽/кг",
+    "image": "images/032.webp",
+    "id": "fish-027",
+    "priceText": "1 470"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Форель БГ Турция 2,7–4 кг",
+    "price": 1750,
+    "unit": "₽/кг",
+    "image": "images/032.webp",
+    "id": "fish-028",
+    "priceText": "1 750"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Форель НР Турция",
+    "price": 1050,
+    "unit": "₽/кг · 0,8–1 кг от 1 шт",
+    "image": "images/033.webp",
+    "id": "fish-029",
+    "priceText": "1 050"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Кижуч ПБГ Чили премиум",
+    "price": 1750,
+    "unit": "₽/кг · 2,7–3,6+ кг от 1 шт",
+    "image": "images/034.webp",
+    "id": "fish-030",
+    "priceText": "1 750"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Кижуч СГ",
+    "price": 1100,
+    "unit": "₽/кг · около 2+ кг от 1 шт",
+    "image": "images/035.webp",
+    "id": "fish-031",
+    "priceText": "1 100"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Нерка СГ",
+    "price": 1200,
+    "unit": "₽/кг · около 2 кг от 1 шт",
+    "image": "images/036.webp",
+    "id": "fish-032",
+    "priceText": "1 200",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Горбуша СГ непотрошёная",
+    "price": 960,
+    "unit": "₽/кг · 1+ кг от 1 шт",
+    "image": "images/037.webp",
+    "id": "fish-033",
+    "priceText": "960"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Горбуша БГ",
+    "price": 1150,
+    "unit": "₽/кг · 1+ кг от 1 шт",
+    "image": "images/038.webp",
+    "id": "fish-034",
+    "priceText": "1 150"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Кета ПБГ сухая заморозка",
+    "price": 990,
+    "unit": "₽/кг · около 2+ кг от 1 шт",
+    "image": "images/039.webp",
+    "id": "fish-035",
+    "priceText": "990",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Свежемороженая рыба",
+    "name": "Набор для ухи (форель)",
+    "price": 390,
+    "unit": "₽/кг",
+    "image": "images/040.webp",
+    "id": "fish-036",
+    "priceText": "390"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк пангасиуса",
+    "price": 480,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/050.webp",
+    "id": "fish-037",
+    "priceText": "480"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк сазана",
+    "price": 380,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/051.webp",
+    "id": "fish-038",
+    "priceText": "380"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк пикши",
+    "price": 675,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/052.webp",
+    "id": "fish-039",
+    "priceText": "675",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейки минтая (нарезки)",
+    "price": 470,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/053.webp",
+    "id": "fish-040",
+    "priceText": "470"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк горбуши",
+    "price": 1260,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/054.webp",
+    "id": "fish-041",
+    "priceText": "1 260"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк лосося ДВ (премиум горбуша)",
+    "price": 1290,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/055.webp",
+    "id": "fish-042",
+    "priceText": "1 290"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк кеты",
+    "price": null,
+    "unit": "Цена за кг в прайсе не указана",
+    "image": "images/056.webp",
+    "id": "fish-043",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк кижуча",
+    "price": null,
+    "unit": "Цена за кг в прайсе не указана",
+    "image": "images/057.webp",
+    "id": "fish-044",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк нерки",
+    "price": null,
+    "unit": "Цена за кг в прайсе не указана",
+    "image": "images/058.webp",
+    "id": "fish-045",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк сёмги Мурманск",
+    "price": null,
+    "unit": "Цена за кг в прайсе не указана",
+    "image": "images/059.webp",
+    "id": "fish-046",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк сёмги Чили",
+    "price": 1900,
+    "unit": "₽/кг · от 1 кг / шт",
+    "image": "images/060.webp",
+    "id": "fish-047",
+    "priceText": "1 900"
+  },
+  {
+    "category": "Стейки",
+    "name": "Стейк форели Чили",
+    "price": 1780,
+    "unit": "₽/кг · от 1 кг / шт",
+    "image": "images/061.webp",
+    "id": "fish-048",
+    "priceText": "1 780"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе горбуши",
+    "price": 1330,
+    "unit": "₽/кг · от 1 кг · около 2–3 шт",
+    "image": "images/062.webp",
+    "id": "fish-049",
+    "priceText": "1 330"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе минтая блок",
+    "price": 700,
+    "unit": "₽/кг · вес блока 1,1 кг",
+    "image": "images/063.webp",
+    "id": "fish-050",
+    "priceText": "700"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе минтая на коже",
+    "price": 490,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/064.webp",
+    "id": "fish-051",
+    "priceText": "490"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе хека",
+    "price": 660,
+    "unit": "₽/кг · 1 кг",
+    "image": "images/065.webp",
+    "id": "fish-052",
+    "priceText": "660",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе тилапии",
+    "price": 600,
+    "unit": "₽/уп · от 1 кг",
+    "image": "images/082.webp",
+    "id": "fish-053",
+    "priceText": "600"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Стейк тунца",
+    "price": 520,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/083.webp",
+    "id": "fish-054",
+    "priceText": "520"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе кеты кубики",
+    "price": 1060,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/084.webp",
+    "id": "fish-055",
+    "priceText": "1 060",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Медальоны хека",
+    "price": 780,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/085.webp",
+    "id": "fish-056",
+    "priceText": "780"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе пангасиуса",
+    "price": 350,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/086.webp",
+    "id": "fish-057",
+    "priceText": "350"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Медальоны из тунца",
+    "price": 430,
+    "unit": "₽/уп · от 0,5 кг",
+    "image": "images/087.webp",
+    "id": "fish-058",
+    "priceText": "430",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе тресковых пород кубики",
+    "price": 800,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/088.webp",
+    "id": "fish-059",
+    "priceText": "800"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе судака",
+    "price": 950,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/089.webp",
+    "id": "fish-060",
+    "priceText": "950"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе сёмги трим D",
+    "price": 2730,
+    "unit": "₽/кг · 1–1,3 кг от 1 шт",
+    "image": "images/090.webp",
+    "id": "fish-061",
+    "priceText": "2 730"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Фарш горбуши",
+    "price": 435,
+    "unit": "₽/кг · 0,5 кг",
+    "image": "images/091.webp",
+    "id": "fish-062",
+    "priceText": "435"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе форели",
+    "price": 2270,
+    "unit": "₽/кг · около 0,9–1,3 кг",
+    "image": "images/092.webp",
+    "id": "fish-063",
+    "priceText": "2 270"
+  },
+  {
+    "category": "Филе и порционная рыба",
+    "name": "Филе окуня",
+    "price": 830,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/093.webp",
+    "id": "fish-064",
+    "priceText": "830"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты фигурные лососевые",
+    "price": 460,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/094.webp",
+    "id": "fish-065",
+    "priceText": "460"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты фигурные тресковые",
+    "price": 435,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/094.webp",
+    "id": "fish-066",
+    "priceText": "435"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты халяль (щука / лосось)",
+    "price": 290,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/095.webp",
+    "id": "fish-067",
+    "priceText": "290"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты щуки со шпиком",
+    "price": 270,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/104.webp",
+    "id": "fish-068",
+    "priceText": "270"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Минтай в панировке палочки",
+    "price": 650,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/105.webp",
+    "id": "fish-069",
+    "priceText": "650"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Филе горбуши в панировке",
+    "price": 1050,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/106.webp",
+    "id": "fish-070",
+    "priceText": "1 050"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты из судака домашние со шпиком",
+    "price": 310,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/107.webp",
+    "id": "fish-071",
+    "priceText": "310",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Филе трески в кляре",
+    "price": 680,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/108.webp",
+    "id": "fish-072",
+    "priceText": "680"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Филе горбуши в кляре",
+    "price": 920,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/109.webp",
+    "id": "fish-073",
+    "priceText": "920"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты из минтая в картофельной шубке",
+    "price": 640,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/110.webp",
+    "id": "fish-074",
+    "priceText": "640"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Чебуреки из трески",
+    "price": 420,
+    "unit": "₽/уп · от 1 кг",
+    "image": "images/111.webp",
+    "id": "fish-075",
+    "priceText": "420"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Кольца / палочки кальмара в панировке",
+    "price": 680,
+    "unit": "₽/уп · 500 г",
+    "image": "images/112.webp",
+    "id": "fish-076",
+    "priceText": "680"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Креветка в панировке",
+    "price": 800,
+    "unit": "₽/уп · 500 г",
+    "image": "images/113.webp",
+    "id": "fish-077",
+    "priceText": "800"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Колбаски из форели",
+    "price": 600,
+    "unit": "₽/уп · 500 г",
+    "image": "images/114.webp",
+    "id": "fish-078",
+    "priceText": "600"
+  },
+  {
+    "category": "Рыбные полуфабрикаты",
+    "name": "Котлеты из креветки «Эби кацу»",
+    "price": 770,
+    "unit": "₽/уп · 450 г",
+    "image": "images/115.webp",
+    "id": "fish-079",
+    "priceText": "770"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Цветная капуста в кляре",
+    "price": 430,
+    "unit": "₽/кг · 1 кг",
+    "image": "images/116.webp",
+    "id": "fish-080",
+    "priceText": "430",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Брокколи в кляре",
+    "price": 430,
+    "unit": "₽/кг · 1 кг",
+    "image": "images/117.webp",
+    "id": "fish-081",
+    "priceText": "430",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Блинчики с варёной сгущёнкой",
+    "price": 490,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/118.webp",
+    "id": "fish-082",
+    "priceText": "490",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Блинчики с ветчиной и сыром",
+    "price": 510,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/118.webp",
+    "id": "fish-083",
+    "priceText": "510",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Блинчики с творожным сыром и манго",
+    "price": 550,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/118.webp",
+    "id": "fish-084",
+    "priceText": "550",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Моцарелла в панировке палочки",
+    "price": 680,
+    "unit": "₽/уп · от 1 кг",
+    "image": "images/129.webp",
+    "id": "fish-085",
+    "priceText": "680"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Наггетсы куриные",
+    "price": 540,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/130.webp",
+    "id": "fish-086",
+    "priceText": "540"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Стрипсы куриные",
+    "price": 600,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/131.webp",
+    "id": "fish-087",
+    "priceText": "600"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Крылышки в панировке",
+    "price": 675,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/132.webp",
+    "id": "fish-088",
+    "priceText": "675"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Картофель фри",
+    "price": 620,
+    "unit": "₽/уп · 2,5 кг",
+    "image": "images/133.webp",
+    "id": "fish-089",
+    "priceText": "620",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Треугольник с говядиной",
+    "price": 660,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/134.webp",
+    "id": "fish-090",
+    "priceText": "660"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Самса с курицей",
+    "price": 550,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/135.webp",
+    "id": "fish-091",
+    "priceText": "550"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Элеш с курицей",
+    "price": 560,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/136.webp",
+    "id": "fish-092",
+    "priceText": "560",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Чебуреки из курицы",
+    "price": 440,
+    "unit": "₽/уп · от 1 кг",
+    "image": "images/137.webp",
+    "id": "fish-093",
+    "priceText": "440",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Язык говяжий",
+    "price": 990,
+    "unit": "₽/кг · 800+ г",
+    "image": "images/138.webp",
+    "id": "fish-094",
+    "priceText": "990"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Голубцы с говядиной",
+    "price": 570,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/139.webp",
+    "id": "fish-095",
+    "priceText": "570"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Чебуреки из творожного сыра и зелени",
+    "price": 460,
+    "unit": "₽/уп · от 1 кг",
+    "image": "images/140.webp",
+    "id": "fish-096",
+    "priceText": "460",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Купаты «Гурман» со шпиком",
+    "price": 310,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/141.webp",
+    "id": "fish-097",
+    "priceText": "310",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Купаты «Дарницкие» без шпика",
+    "price": 360,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/142.webp",
+    "id": "fish-098",
+    "priceText": "360",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Наггетсы халяль",
+    "price": 830,
+    "unit": "₽/уп · 2 кг",
+    "image": "images/143.webp",
+    "id": "fish-099",
+    "priceText": "830",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Корндог мини-сосиски",
+    "price": 720,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/144.webp",
+    "id": "fish-100",
+    "priceText": "720",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Губадия",
+    "price": 700,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/145.webp",
+    "id": "fish-101",
+    "priceText": "700"
+  },
+  {
+    "category": "Домашние и куриные полуфабрикаты",
+    "name": "Треугольники лососевые в кляре",
+    "price": 510,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/146.webp",
+    "id": "fish-102",
+    "priceText": "510"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Гребешок на створке с икрой (средний размер)",
+    "price": 990,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/159.webp",
+    "id": "fish-103",
+    "priceText": "990"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Гребешок филе",
+    "price": 670,
+    "unit": "₽/уп · 500 г",
+    "image": "images/160.webp",
+    "id": "fish-104",
+    "priceText": "670"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Гребешки на створке «Золотой»",
+    "price": null,
+    "unit": "₽/уп · 1 кг · цена не указана",
+    "image": "images/161.webp",
+    "id": "fish-105",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Кольца кальмара с/м",
+    "price": 460,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/162.webp",
+    "id": "fish-106",
+    "priceText": "460"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Гребешки медальоны",
+    "price": 620,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/163.webp",
+    "id": "fish-107",
+    "priceText": "620"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветки бабочки с/м",
+    "price": 650,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/164.webp",
+    "id": "fish-108",
+    "priceText": "650"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Осьминог бэби",
+    "price": 580,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/165.webp",
+    "id": "fish-109",
+    "priceText": "580"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Морской коктейль",
+    "price": 270,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/166.webp",
+    "id": "fish-110",
+    "priceText": "270"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка королевская крупная 20/30",
+    "price": 900,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/167.webp",
+    "id": "fish-111",
+    "priceText": "900"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка королевская средняя 50/70",
+    "price": 740,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/167.webp",
+    "id": "fish-112",
+    "priceText": "740"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка северная 90/120",
+    "price": 670,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/168.webp",
+    "id": "fish-113",
+    "priceText": "670"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка северная 70/90",
+    "price": 825,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/168.webp",
+    "id": "fish-114",
+    "priceText": "825"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка сыромороженая тигровая в панцире БГ",
+    "price": 2330,
+    "unit": "₽/уп · 1,8 кг",
+    "image": "images/169.webp",
+    "id": "fish-115",
+    "priceText": "2 330"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка сыромороженая очищенная 41/50",
+    "price": 1500,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/170.webp",
+    "id": "fish-116",
+    "priceText": "1 500"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка сыромороженая очищенная 13/15",
+    "price": 1550,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/170.webp",
+    "id": "fish-117",
+    "priceText": "1 550"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Лангустины L2",
+    "price": 1180,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/171.webp",
+    "id": "fish-118",
+    "priceText": "1 180"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Лангустины БГ C1",
+    "price": 1500,
+    "unit": "₽/кг · от 1 кг",
+    "image": "images/172.webp",
+    "id": "fish-119",
+    "priceText": "1 500"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка очищенная королевская",
+    "price": 1550,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/173.webp",
+    "id": "fish-120",
+    "priceText": "1 550"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветка очищенная коктейльная",
+    "price": 1000,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/174.webp",
+    "id": "fish-121",
+    "priceText": "1 000"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии очищенные",
+    "price": 780,
+    "unit": "₽/кг · упаковка 0,5 кг",
+    "image": "images/182.webp",
+    "id": "fish-122",
+    "priceText": "780"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии очищенные крупные",
+    "price": null,
+    "unit": "₽/уп · 0,5 кг · цена не указана",
+    "image": "images/183.webp",
+    "id": "fish-123",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии в раковине",
+    "price": null,
+    "unit": "₽/уп · 1 кг · цена не указана",
+    "image": "images/184.webp",
+    "id": "fish-124",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии на полустворке",
+    "price": 500,
+    "unit": "₽/уп · 1 кг",
+    "image": "images/185.webp",
+    "id": "fish-125",
+    "priceText": "500"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии в соусе чесночно-сливочном",
+    "price": null,
+    "unit": "₽/уп · 500 г · цена не указана",
+    "image": "images/186.webp",
+    "id": "fish-126",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии в соусе из белого вина",
+    "price": 460,
+    "unit": "₽/уп · 500 г",
+    "image": "images/187.webp",
+    "id": "fish-127",
+    "priceText": "460"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Мидии в соусе томатно-чесночном",
+    "price": 460,
+    "unit": "₽/уп · 500 г",
+    "image": "images/188.webp",
+    "id": "fish-128",
+    "priceText": "460"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Клемы вонголе",
+    "price": null,
+    "unit": "₽/уп · 500 г · цена не указана",
+    "image": "images/189.webp",
+    "id": "fish-129",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Угорь в соусе унаги",
+    "price": 2150,
+    "unit": "₽/кг · упаковка 700–800 г",
+    "image": "images/190.webp",
+    "id": "fish-130",
+    "priceText": "2 150"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Кальмар тушки",
+    "price": 600,
+    "unit": "₽/уп · 600 г",
+    "image": "images/191.webp",
+    "id": "fish-131",
+    "priceText": "600",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Креветки на шпажке",
+    "price": 730,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/192.webp",
+    "id": "fish-132",
+    "priceText": "730"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Кальмар ёжики",
+    "price": 500,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/193.webp",
+    "id": "fish-133",
+    "priceText": "500"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Краб волосатик",
+    "price": 1400,
+    "unit": "₽/шт",
+    "image": "images/194.webp",
+    "id": "fish-134",
+    "priceText": "1 400"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Краб стригун конечности",
+    "price": 1600,
+    "unit": "₽/кг · 400–600 г / шт",
+    "image": "images/195.webp",
+    "id": "fish-135",
+    "priceText": "1 600"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Краб камчатский подарочный",
+    "price": 3100,
+    "unit": "₽/кг · около 2,2+ кг от 1 шт",
+    "image": "images/196.webp",
+    "id": "fish-136",
+    "priceText": "3 100",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Конечности краба камчатского L2",
+    "price": 3120,
+    "unit": "₽/кг · около 900+ г",
+    "image": "images/197.webp",
+    "id": "fish-137",
+    "priceText": "3 120",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Конечности краба камчатского S",
+    "price": 1690,
+    "unit": "₽/кг · около 400+ г",
+    "image": "images/197.webp",
+    "id": "fish-138",
+    "priceText": "1 690",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Крабовые палочки",
+    "price": 80,
+    "unit": "₽/уп · 200 г",
+    "image": "images/198.webp",
+    "id": "fish-139",
+    "priceText": "80"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Салат чука",
+    "price": 200,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/199.webp",
+    "id": "fish-140",
+    "priceText": "200"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Рулеты из форели с творожным сыром и креветками",
+    "price": 1400,
+    "unit": "₽/уп · 500 г",
+    "image": "images/200.webp",
+    "id": "fish-141",
+    "priceText": "1 400",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Морепродукты",
+    "name": "Стригун подарочный",
+    "price": 2100,
+    "unit": "₽/шт · 1 кг",
+    "image": "images/201.webp",
+    "id": "fish-142",
+    "priceText": "2 100",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Гёдза с неркой",
+    "price": 330,
+    "unit": "₽/уп · 0,24 кг",
+    "image": "images/217.webp",
+    "id": "fish-143",
+    "priceText": "330"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Улитки том-ям",
+    "price": 520,
+    "unit": "₽/уп",
+    "image": "images/218.webp",
+    "id": "fish-144",
+    "priceText": "520"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Креветки в соусе итальянском",
+    "price": 650,
+    "unit": "₽/уп",
+    "image": "images/219.webp",
+    "id": "fish-145",
+    "priceText": "650"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Креветки в соусе карри",
+    "price": 650,
+    "unit": "₽/уп",
+    "image": "images/219.webp",
+    "id": "fish-146",
+    "priceText": "650"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Креветки в соусе азиатском",
+    "price": 650,
+    "unit": "₽/уп",
+    "image": "images/219.webp",
+    "id": "fish-147",
+    "priceText": "650"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Креветки в соусе индонезийском",
+    "price": 650,
+    "unit": "₽/уп",
+    "image": "images/219.webp",
+    "id": "fish-148",
+    "priceText": "650"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Креветки в соусе унаги",
+    "price": 650,
+    "unit": "₽/уп",
+    "image": "images/219.webp",
+    "id": "fish-149",
+    "priceText": "650"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Суп том-ям острый с рисом",
+    "price": 500,
+    "unit": "₽/уп · 400 г · 2 порции",
+    "image": "images/220.webp",
+    "id": "fish-150",
+    "priceText": "500"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Суп том-ям средней остроты с рисом",
+    "price": 500,
+    "unit": "₽/уп · 400 г · 2 порции",
+    "image": "images/220.webp",
+    "id": "fish-151",
+    "priceText": "500"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Пельмени с горбушей",
+    "price": 250,
+    "unit": "₽/уп · 0,45 кг",
+    "image": "images/221.webp",
+    "id": "fish-152",
+    "priceText": "250"
+  },
+  {
+    "category": "Готовые блюда, супы и пельмени",
+    "name": "Пельмени с треской",
+    "price": 240,
+    "unit": "₽/уп · 0,45 кг",
+    "image": "images/221.webp",
+    "id": "fish-153",
+    "priceText": "240"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Килька в томате",
+    "price": 150,
+    "unit": "₽/уп · 270 г",
+    "image": "images/222.webp",
+    "id": "fish-154",
+    "priceText": "150"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Икра палтуса",
+    "price": 300,
+    "unit": "₽/уп · 220 г",
+    "image": "images/223.webp",
+    "id": "fish-155",
+    "priceText": "300"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Сёмга в собственном соку",
+    "price": 630,
+    "unit": "₽/уп · 500 г",
+    "image": "images/224.webp",
+    "id": "fish-156",
+    "priceText": "630"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Печень трески (стекло)",
+    "price": 820,
+    "unit": "₽/уп · 500 г",
+    "image": "images/225.webp",
+    "id": "fish-157",
+    "priceText": "820"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Печень трески (стекло)",
+    "price": 575,
+    "unit": "₽/уп · 240 г",
+    "image": "images/225.webp",
+    "id": "fish-158",
+    "priceText": "575"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Тунец натуральный",
+    "price": 660,
+    "unit": "₽/уп · 500 г",
+    "image": "images/226.webp",
+    "id": "fish-159",
+    "priceText": "660"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Тунец натуральный",
+    "price": 350,
+    "unit": "₽/уп · 240 г",
+    "image": "images/226.webp",
+    "id": "fish-160",
+    "priceText": "350"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Печень трески ЖБ",
+    "price": 415,
+    "unit": "₽/уп · 185 г",
+    "image": "images/227.webp",
+    "id": "fish-161",
+    "priceText": "415"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Печень и икра минтая",
+    "price": 200,
+    "unit": "₽/уп · 120 г",
+    "image": "images/228.webp",
+    "id": "fish-162",
+    "priceText": "200"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Тунец тушёнка",
+    "price": 325,
+    "unit": "₽/уп · 340 г",
+    "image": "images/229.webp",
+    "id": "fish-163",
+    "priceText": "325"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Шпрот в масле",
+    "price": 250,
+    "unit": "₽/уп · 270 г",
+    "image": "images/246.webp",
+    "id": "fish-164",
+    "priceText": "250"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Икра форели (имитация)",
+    "price": 250,
+    "unit": "₽/уп · 220 г",
+    "image": "images/247.webp",
+    "id": "fish-165",
+    "priceText": "250"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Скумбрия в масле",
+    "price": 550,
+    "unit": "₽/уп · 500 г",
+    "image": "images/248.webp",
+    "id": "fish-166",
+    "priceText": "550",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Икра лососевая «Находкинская» оригинальная",
+    "price": null,
+    "unit": "₽/уп · 140 г · цена не указана",
+    "image": "images/249.webp",
+    "id": "fish-167",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Эмиз таврический",
+    "price": 1600,
+    "unit": "₽/бут · 0,7 л",
+    "image": "images/250.webp",
+    "id": "fish-168",
+    "priceText": "1 600"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Эмиз премиум",
+    "price": 2700,
+    "unit": "₽/бут · 0,7 л",
+    "image": "images/250.webp",
+    "id": "fish-169",
+    "priceText": "2 700"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Эмиз гранатовый",
+    "price": 1700,
+    "unit": "₽/бут · 0,7 л",
+    "image": "images/250.webp",
+    "id": "fish-170",
+    "priceText": "1 700"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Кокосовое молоко",
+    "price": 250,
+    "unit": "₽/уп · 400 мл",
+    "image": "images/251.webp",
+    "id": "fish-171",
+    "priceText": "250"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Паста том-ям",
+    "price": 390,
+    "unit": "₽/уп · 400 г",
+    "image": "images/252.webp",
+    "id": "fish-172",
+    "priceText": "390"
+  },
+  {
+    "category": "Консервы и икра",
+    "name": "Икра горбуши",
+    "price": 2500,
+    "unit": "₽ · 250 г",
+    "image": "images/253.webp",
+    "id": "fish-173",
+    "priceText": "2 500",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Форель стейки с/с",
+    "price": 1920,
+    "unit": "₽/кг · вес стейка около 0,4–0,5 кг",
+    "image": "images/254.webp",
+    "id": "fish-174",
+    "priceText": "1 920"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Скумбрия БГ с/с",
+    "price": 810,
+    "unit": "₽/кг · около 0,4 кг от 1 шт",
+    "image": "images/255.webp",
+    "id": "fish-175",
+    "priceText": "810",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Сельдь с/с",
+    "price": 530,
+    "unit": "₽/кг · около 0,4 кг от 1 шт",
+    "image": "images/256.webp",
+    "id": "fish-176",
+    "priceText": "530"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Брюшки сёмги слабосолёные",
+    "price": 575,
+    "unit": "₽ · 500 г",
+    "image": "images/257.webp",
+    "id": "fish-177",
+    "priceText": "575"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Килька с/с с пряностями",
+    "price": 210,
+    "unit": "₽/уп · 500 г",
+    "image": "images/258.webp",
+    "id": "fish-178",
+    "priceText": "210"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Филе сельди с/с в масле",
+    "price": 650,
+    "unit": "₽/кг · фасовка 300–350 г / 190–230 ₽",
+    "image": null,
+    "id": "fish-179",
+    "priceText": "650"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Филе сельди с/с с зеленью",
+    "price": 650,
+    "unit": "₽/кг · фасовка 300–350 г / 190–230 ₽",
+    "image": null,
+    "id": "fish-180",
+    "priceText": "650"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Филе форели слабосолёное",
+    "price": 2550,
+    "unit": "₽/кг · упаковка 0,35–0,5 кг",
+    "image": "images/265.webp",
+    "id": "fish-181",
+    "priceText": "2 550"
+  },
+  {
+    "category": "Слабосолёная продукция",
+    "name": "Мякоть форели малосольная",
+    "price": 850,
+    "unit": "₽/уп · 0,5 кг",
+    "image": "images/266.webp",
+    "id": "fish-182",
+    "priceText": "850"
+  },
+  {
+    "category": "Горячее копчение",
+    "name": "Терпуг горячего копчения",
+    "price": 780,
+    "unit": "₽/кг · 0,6–0,8 кг от 1 шт",
+    "image": "images/268.webp",
+    "id": "fish-183",
+    "priceText": "780"
+  },
+  {
+    "category": "Горячее копчение",
+    "name": "Дорадо горячего копчения",
+    "price": 1485,
+    "unit": "₽/кг · 0,4–0,5 кг от 1 шт",
+    "image": "images/269.webp",
+    "id": "fish-184",
+    "priceText": "1 485",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Горячее копчение",
+    "name": "Окунь горячего копчения",
+    "price": 840,
+    "unit": "₽/кг · около 0,3 кг от 1 шт",
+    "image": "images/270.webp",
+    "id": "fish-185",
+    "priceText": "840",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Горячее копчение",
+    "name": "Кальмар горячего копчения",
+    "price": 1000,
+    "unit": "₽/кг · около 250 г от 1 шт",
+    "image": "images/271.webp",
+    "id": "fish-186",
+    "priceText": "1 000"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Лосось ДВ холодного копчения",
+    "price": 1100,
+    "unit": "₽/кг · 0,7–0,8 кг от 1 шт",
+    "image": "images/272.webp",
+    "id": "fish-187",
+    "priceText": "1 100",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Скумбрия холодного копчения",
+    "price": 1430,
+    "unit": "₽/кг · 0,4–0,6 кг от 1 шт",
+    "image": "images/273.webp",
+    "id": "fish-188",
+    "priceText": "1 430"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Вомер холодного копчения",
+    "price": 750,
+    "unit": "₽/кг · от 1 шт",
+    "image": "images/274.webp",
+    "id": "fish-189",
+    "priceText": "750",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Барабулька холодного копчения",
+    "price": 840,
+    "unit": "₽/кг · 100–200 г от 1 шт",
+    "image": "images/275.webp",
+    "id": "fish-190",
+    "priceText": "840",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Лососевые палочки холодного копчения",
+    "price": 300,
+    "unit": "₽ · 150 г",
+    "image": "images/276.webp",
+    "id": "fish-191",
+    "priceText": "300"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Омуль холодного копчения",
+    "price": 900,
+    "unit": "₽/кг · 0,8–1 кг от 1 шт",
+    "image": "images/277.webp",
+    "id": "fish-192",
+    "priceText": "900"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Филе сёмги холодного копчения",
+    "price": 3050,
+    "unit": "₽/кг · 0,3–0,5 кг",
+    "image": "images/278.webp",
+    "id": "fish-193",
+    "priceText": "3 050"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Форель холодного копчения",
+    "price": 1755,
+    "unit": "₽/кг · 0,8–1 кг от 1 шт",
+    "image": "images/279.webp",
+    "id": "fish-194",
+    "priceText": "1 755"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Масляная филе холодного копчения",
+    "price": 2000,
+    "unit": "₽/кг · 400+ г от 1 шт",
+    "image": "images/295.webp",
+    "id": "fish-195",
+    "priceText": "2 000"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Форель стейк холодного копчения",
+    "price": 2000,
+    "unit": "₽/кг · 250–400 г от 1 шт",
+    "image": "images/296.webp",
+    "id": "fish-196",
+    "priceText": "2 000"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Филе тунца холодного копчения",
+    "price": 1650,
+    "unit": "₽/кг · около 0,5 кг от 1 шт",
+    "image": "images/297.webp",
+    "id": "fish-197",
+    "priceText": "1 650"
+  },
+  {
+    "category": "Холодное копчение",
+    "name": "Скумбрия с пряностями",
+    "price": null,
+    "unit": "₽/кг · около 300 г от 1 шт · цена не указана",
+    "image": "images/298.webp",
+    "id": "fish-198",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Вяленая продукция",
+    "name": "Лещ вяленый",
+    "price": 400,
+    "unit": "₽/кг · 500–1000 г от 1 шт",
+    "image": "images/299.webp",
+    "id": "fish-199",
+    "priceText": "400"
+  },
+  {
+    "category": "Вяленая продукция",
+    "name": "Форель вяленая",
+    "price": 1650,
+    "unit": "₽/кг · 0,6–0,8 кг от 1 шт",
+    "image": "images/300.webp",
+    "id": "fish-200",
+    "priceText": "1 650",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Вяленая продукция",
+    "name": "Чехонь вяленая",
+    "price": null,
+    "unit": "Цена не указана · фасовка 0,5 кг / 1 кг",
+    "image": "images/301.webp",
+    "id": "fish-201",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  },
+  {
+    "category": "Вяленая продукция",
+    "name": "Вяленые чипсы из икры воблы",
+    "price": null,
+    "unit": "₽/150 г · цена не указана",
+    "image": "images/302.webp",
+    "id": "fish-202",
+    "priceText": "Уточнить",
+    "availability": "Временно нет в продаже"
+  }
+]
